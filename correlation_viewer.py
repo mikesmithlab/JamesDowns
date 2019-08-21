@@ -7,7 +7,7 @@ from PyQt5.QtWidgets import (QMainWindow, QApplication, QHBoxLayout, QWidget,
 from scipy import signal, optimize
 
 from Generic import pyqt5_widgets
-from ParticleTracking import correlations
+from JamesDowns import correlations
 
 
 class MainWindow(QMainWindow):
